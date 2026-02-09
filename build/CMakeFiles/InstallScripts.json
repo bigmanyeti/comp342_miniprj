@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/utts/uni/min_prjs/cg/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

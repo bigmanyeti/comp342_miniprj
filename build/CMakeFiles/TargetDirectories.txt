@@ -1,0 +1,3 @@
+/home/utts/uni/min_prjs/cg/build/CMakeFiles/GravitySimulator.dir
+/home/utts/uni/min_prjs/cg/build/CMakeFiles/edit_cache.dir
+/home/utts/uni/min_prjs/cg/build/CMakeFiles/rebuild_cache.dir
