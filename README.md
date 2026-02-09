@@ -13,10 +13,10 @@ A real-time N-body gravity simulation using C++, OpenGL, GLFW, and GLEW. This pr
 
 ## Controls
 
+- **Space**: To pause
 - **Left Click & Hold**: Create a new planet (hold longer for larger mass/size)
 - **Right Click**: Remove a planet at cursor position
 - **R Key**: Reset to solar system
-- **C Key**: Clear all planets
 - **ESC**: Exit application
 
 ## Prerequisites
